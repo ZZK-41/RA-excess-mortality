@@ -1,0 +1,3 @@
+# Python 3.14 was used (python3 -I). Versions used for the published results:
+pandas==3.0.1
+numpy==2.4.2
